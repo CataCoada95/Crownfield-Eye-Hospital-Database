@@ -1,0 +1,1 @@
+This folder contains the Entity Relationship Diagram for the Crownfield Eye Hospital database. The diagram shows the nine related tables, primary keys, foreign keys, cardinality and optionality using Crow's Foot notation.
